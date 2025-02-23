@@ -1,7 +1,3 @@
-Here's a well-structured and visually appealing **README.md** for your **Web Scraping with Node.js** project:  
-
----
-
 # 🏏 Web Scraping with Node.js  
 
 A **Node.js API** that scrapes the [Cricket Points Table](https://www.icc-cricket.com/rankings/mens/team-rankings/odi) and stores the **team rankings** and **last updated info** in a **Firebase Realtime Database**. This API continuously checks for changes **every midnight** and automatically updates the database to ensure real-time accuracy.  
